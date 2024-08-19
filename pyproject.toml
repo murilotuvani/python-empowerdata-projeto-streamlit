@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-empowerdata-projeto-streamlit"
+version = "0.1.0"
+description = "Projeto de acompanhamento do curso 59927-dominando-a-linguagem-python"
+authors = ["Murilo Tuvani <murilo.tuvani@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.37.1"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
