@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "python-empowerdata-projeto-streamlit"
-version = "0.1.0"
-description = "Projeto de acompanhamento do curso 59927-dominando-a-linguagem-python"
+name = "m9pp"
+version = "1.0"
+description = "Projeto pratico do curso Dominando a Linguagem Python da Empower Data."
 authors = ["Murilo Tuvani <murilo.tuvani@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-streamlit = "^1.37.1"
+python = "^3.12"
+streamlit = "^1.38.0"
 pandas = "^2.2.2"
 
 
